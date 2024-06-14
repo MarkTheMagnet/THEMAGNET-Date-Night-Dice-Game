@@ -1,1 +1,1 @@
-# THEMAGNET-Date-Night-Dice-Game
+# THEMAGNET: Date Night Dice Game

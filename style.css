@@ -1,7 +1,19 @@
-body {
-  background-color: lightblue;
-}
-h1 {
-  color: red;
+.dice_title {
+  border-radius: 25px;
+  background-color: LightPink;
   text-align: center;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+  
+}
+
+.dice_slot {
+  height: 200px;
+  width: 100%;
+  border-radius: 25px;
+  background-color: PaleVioletRed;
+  border: 2px solid black;
+  color: white;
 }
